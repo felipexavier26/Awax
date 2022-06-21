@@ -1,6 +1,7 @@
 # Awax
 Projeto Awax
 Tela do site no desktop
+
 ![Capturar](https://user-images.githubusercontent.com/103685054/174863555-6d4b2b5b-c09a-4562-accb-db69626fb66b.PNG)
 
 ![Capturar1](https://user-images.githubusercontent.com/103685054/174863754-0df96dd9-1aa7-42f0-b0a3-87b561d4a339.PNG)
