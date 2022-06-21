@@ -1,5 +1,8 @@
 # Awax
-Projeto Awax
+Projeto Awax 
+
+Site responsivo
+
 Tela do site no desktop
 
 ![Capturar](https://user-images.githubusercontent.com/103685054/174863555-6d4b2b5b-c09a-4562-accb-db69626fb66b.PNG)
